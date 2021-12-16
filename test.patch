@@ -1,0 +1,19 @@
+Index: lk-annotation/pom.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- lk-annotation/pom.xml	(revision 1c9144d4f0ea08e435c13ff8f3af722931650231)
++++ lk-annotation/pom.xml	(date 1639047423164)
+@@ -9,8 +9,8 @@
+     <version>1.0-SNAPSHOT</version>
+ 
+     <properties>
+-        <maven.compiler.source>14</maven.compiler.source>
+-        <maven.compiler.target>14</maven.compiler.target>
++        <maven.compiler.source>11</maven.compiler.source>
++        <maven.compiler.target>11</maven.compiler.target>
+     </properties>
+ 
+     <dependencies>
+diff --git lk-annotation/config.properties lk-annotation/config.properties
